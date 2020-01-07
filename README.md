@@ -1,2 +1,3 @@
-# Welcome to CSE442
-This is to create a file so that your repo has a place to start.
+# Welcome to Our Project
+To install and run our project here are the steps required:
+
